@@ -32,5 +32,5 @@ These libraries are header-only and self-contained. To use them, include the cor
 
 Check out the `tests.cpp` file for usage examples and test cases.
 
-Feel free to contribute, report issues, or suggest improvements. Happy coding!
+Enjoy you visit !
 
