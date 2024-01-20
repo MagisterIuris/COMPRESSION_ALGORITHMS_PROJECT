@@ -1,0 +1,14 @@
+# ninja log v5
+3294	3734	1701675689376694373	compression_algorithms	dc521d9181dd4608
+0	127	1701675927433045410	build.ninja	741589067513376d
+14	3293	1701675688923772327	CMakeFiles/compression_algorithms.dir/tests/tests.cpp.o	ed9f1903f7f05ce9
+7	3492	1701676287710014295	CMakeFiles/compression_algorithms.dir/tests/tests.cpp.o	ed9f1903f7f05ce9
+3494	3850	1701676288086000984	compression_algorithms	dc521d9181dd4608
+9	2680	1701676590271994738	CMakeFiles/compression_algorithms.dir/tests/tests.cpp.o	ed9f1903f7f05ce9
+2682	2771	1701676590385044587	compression_algorithms	dc521d9181dd4608
+9	3048	1701677840869067283	CMakeFiles/compression_algorithms.dir/tests/tests.cpp.o	ed9f1903f7f05ce9
+3052	3450	1701677841282612837	compression_algorithms	dc521d9181dd4608
+9	2781	1701677854621094562	CMakeFiles/compression_algorithms.dir/tests/tests.cpp.o	ed9f1903f7f05ce9
+2783	2893	1701677854742599191	compression_algorithms	dc521d9181dd4608
+11	3003	1701678355892584607	CMakeFiles/compression_algorithms.dir/tests/tests.cpp.o	ed9f1903f7f05ce9
+3008	3350	1701678356250353722	compression_algorithms	dc521d9181dd4608

@@ -1,0 +1,3 @@
+/Users/alpjakop/Desktop/INSA/4INFO/TP Eval/Projet/compression-algorithms/cmake-build-debug/CMakeFiles/compression_algorithms.dir
+/Users/alpjakop/Desktop/INSA/4INFO/TP Eval/Projet/compression-algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alpjakop/Desktop/INSA/4INFO/TP Eval/Projet/compression-algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
