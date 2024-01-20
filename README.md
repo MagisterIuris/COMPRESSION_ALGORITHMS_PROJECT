@@ -3,8 +3,7 @@
 C++11 implementations of common data compression algorithms.
 
 License:
-
-Public Domain. Source code in this repository is provided "as is", without warranty of any kind, express or implied. No attribution is required, but a mention about the author is appreciated.
+Thanks to glampert, for providing us with the source code, for more details, please visit glampert's repository : https://github.com/glampert/compression-algorithms
 
     rle.hpp: Run Length Encoding with either 8 or 16 bits run-length words.
     lzw.hpp: Lempel–Ziv–Welch compression with varying code lengths and a 4096 max entries dictionary.
